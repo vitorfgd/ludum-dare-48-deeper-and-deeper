@@ -1,14 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9631524a-c7b7-49e8-878a-5f838b93a4c2" name="Default Changelist" comment="" />
+    <list default="true" id="9631524a-c7b7-49e8-878a-5f838b93a4c2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ludum-dare-48-deeper-and-deeper/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ludum-dare-48-deeper-and-deeper/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ludum-dare-48-deeper-and-deeper/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ludum-dare-48-deeper-and-deeper/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/game.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CharacterMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CharacterMovement.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameProgress.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GameProgress.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Bottom.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/game.unity" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameProgress.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
@@ -29,21 +40,22 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Colllectables/Collectables.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Colllectibles/Collectables.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Collectable/AirPocket.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterMovement.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GameOverManager.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Character.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Bottom.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/GameProgress.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Collectable/Bubble.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Collectable/Obstacle.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Collectable/Collectables.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Collectable/CollectablesPlacer.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GameEnd.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Character.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameProgress.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1rayyoP6yozjDUBpji4mztyRAQI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -53,6 +65,7 @@
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="Rider.SolutionExplorerActivator" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.3" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
@@ -81,7 +94,7 @@
       <option name="presentableId" value="Default" />
       <updated>1619228752574</updated>
       <workItem from="1619228756077" duration="8370000" />
-      <workItem from="1619288469637" duration="22170000" />
+      <workItem from="1619288469637" duration="22433000" />
     </task>
     <servers />
   </component>
@@ -163,9 +176,9 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="597" y="266" width="726" height="518" key="find.popup/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1619355719224" />
-    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1619360339407">
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1619368000454">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1619360339407" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1619368000454" />
   </component>
 </project>

@@ -1,4 +1,5 @@
 using System;
+using TMPro;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -10,6 +11,9 @@ public class CharacterMovement : MonoBehaviour
 
     [SerializeField]
     private InputActionReference _vertical;
+    
+    [SerializeField]
+    private TMP_Text _guide;
 
     private Animator _animator;
     private Rigidbody2D _rigidbody;
@@ -19,7 +23,11 @@ public class CharacterMovement : MonoBehaviour
     {
         _animator = GetComponent<Animator>();
         _rigidbody = GetComponent<Rigidbody2D>();
-        _vertical.action.performed += _ => { Dive(); };
+        _vertical.action.performed += _ =>
+        {
+            _guide.gameObject.SetActive(false);
+            Dive();
+        };
     }
 
     private void OnEnable()
