@@ -1,0 +1,45 @@
+{
+    "name": "Actions",
+    "maps": [
+        {
+            "name": "Movement",
+            "id": "988cf30c-b062-4315-b3b9-43e8e09a8af3",
+            "actions": [
+                {
+                    "name": "Vertical",
+                    "type": "Button",
+                    "id": "aa6a05f7-d4c4-4fd4-aa99-024f4519e914",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "23b4b372-79da-4412-a5bf-9b85af20f719",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Keyboard",
+                    "action": "Vertical",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": [
+        {
+            "name": "Keyboard",
+            "bindingGroup": "Keyboard",
+            "devices": [
+                {
+                    "devicePath": "<Keyboard>",
+                    "isOptional": false,
+                    "isOR": false
+                }
+            ]
+        }
+    ]
+}
